@@ -1,0 +1,7 @@
+.github
+.idea
+node_modules
+.gitignore
+package.json
+package-lock.json
+target
